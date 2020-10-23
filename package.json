@@ -38,6 +38,8 @@
   },
   "devDependencies": {
     "@mdx-js/react": "^1.6.19",
-    "mdx.macro": "^0.2.9"
+    "@types/react-router-dom": "^5.1.6",
+    "mdx.macro": "^0.2.9",
+    "react-router-dom": "^5.2.0"
   }
 }
