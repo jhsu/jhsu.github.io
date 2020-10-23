@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@mdx-js/react": "^1.6.19",
+    "mdx.macro": "^0.2.9"
   }
 }
